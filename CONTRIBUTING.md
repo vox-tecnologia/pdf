@@ -1,3 +1,5 @@
+# Software License for University of California
+
 # Contributing
 
 Contributions are welcome and will be fully credited.
