@@ -1,5 +1,5 @@
 {
-    "name": "vox-tecnologia/pdf",
+    "name": "ucsdmath/pdf",
     "type": "library",
     "description": "A adapter for the mPDF print library",
     "keywords": ["pdf","mpdf", "print", "component"],
