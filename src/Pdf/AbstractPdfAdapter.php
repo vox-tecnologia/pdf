@@ -1,15 +1,5 @@
 <?php
 
-/*
- * This file is part of the UCSDMath package.
- *
- * (c) 2015-2017 UCSD Mathematics | Math Computing Support <mathhelp@math.ucsd.edu>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- * @author Daryl Eisner <deisner@ucsd.edu>
- */
-
 declare(strict_types=1);
 
 namespace UCSDMath\Pdf;
@@ -55,7 +45,6 @@ use UCSDMath\Functions\ServiceFunctionsInterface;
  * (-) string getFontFamily(string $fontname = null);
  * (-) PdfInterface registerPageFormat(string $pageSize = null, string $orientation = null);
  *
- * @author Daryl Eisner <deisner@ucsd.edu>
  */
 abstract class AbstractPdfAdapter implements PdfInterface, ServiceFunctionsInterface
 {
