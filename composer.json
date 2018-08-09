@@ -1,9 +1,8 @@
 {
-    "name": "ucsdmath/pdf",
+    "name": "vox-tecnologia/pdf",
     "type": "library",
-    "description": "A adapter for the mPDF print library - Software License for University of California",
-    "keywords": ["pdf","ucsdmath", "mpdf", "print", "component"],
-    "homepage": "https://github.com/ucsdmath",
+    "description": "A adapter for the mPDF print library",
+    "keywords": ["pdf","mpdf", "print", "component"],
     "license": "MIT",
     "time": "2017-02-05",
     "authors": [
